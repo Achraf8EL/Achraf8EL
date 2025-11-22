@@ -1,6 +1,6 @@
 ## Salut, moi c'est Achraf ! 👋
 
-Je suis actuellement étudiant en M2 MAIGE (Spécialité Systèmes d'Information Distribués) à l'Université de Lorraine.
+Je suis actuellement étudiant en M2 MIAGE (Spécialité Systèmes d'Information Distribués) à l'Université de Lorraine.
 
 🎯 Mon objectif : Je suis à la recherche d'un stage de 6 mois à partir d'Avril 2026.
 
